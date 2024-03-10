@@ -1,5 +1,5 @@
 # Search-Recommender
-Creates a simple search recommender system without pre-trained models
+Creates a simple search recommender system for user searches 
 
 # Context
 Many websites host millions of individual pieces of content, covering a wide range of topics. In order to help users explore the available content, it would be beneficial to provide recommendations on related topics to explore, starting from their initial search query.
